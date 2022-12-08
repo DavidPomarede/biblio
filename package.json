@@ -1,5 +1,5 @@
 {
-  "name": "flexspace",
+  "name": "biblio",
   "version": "1.0.1",
   "description": "",
   "main": "server.js",
@@ -29,5 +29,13 @@
     "spin.js": "^4.0.0",
     "twilio": "^3.33.4"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidPomarede/biblio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidPomarede/biblio/issues"
+  },
+  "homepage": "https://github.com/DavidPomarede/biblio#readme"
 }
